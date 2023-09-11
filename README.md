@@ -4,7 +4,7 @@
 
 ## Description
 
-The challenge this week was to allow users to generate random passwords, based off of prompts. These included whether or not users wanted lowercase, uppercase, symbols, and/or numbers. This is the first JavaScript project I have done, and the hardest part was figuring how to structure everything. I learned a lot about the preperation that goes into creating an outline / importance of pseudocoding before typing any code at all.
+The challenge this week was to allow users to generate random passwords, based off of prompts. These included whether or not users wanted lowercase, uppercase, symbols, and/or numbers. This is the first JavaScript project I have done, and the hardest part was figuring how to structure everything. I learned a lot about the preperation that goes into creating an outline. I also learned the importance of pseudocoding before typing any code at all.
 
 ## Installation
 
@@ -28,20 +28,20 @@ The challenge this week was to allow users to generate random passwords, based o
 7. Password will be generated based off the options selected in the dashed textbox.
 
 ### Password Generator Page
-![Password Generator Page](assets\password-generator-page.png)
+![Password Generator Page](assets/password-generator-page.png)
 
 ### Character Length for Password
-![Character Length for Password](assets\password-generator-characters.png)
+![Character Length for Password](assets/password-generator-characters.png)
 
 ### Confirm Message for Lowercase Characters
-![Confirm Message for Lowercase Characters](assets\password-lowercase-characters.png)
+![Confirm Message for Lowercase Characters](assets/password-lowercase-characters.png)
 
 ### Message if Less Than 8 or More Than 128 Characters
-![Message if Less Than 8 or More Than 128 Characters](assets\password-character-limit.png)
+![Message if Less Than 8 or More Than 128 Characters](assets/password-character-limit.png)
 
 
 ### Message if No Character Types are Chosen
-![Message if No Character Types are Chosen](assets\password-character-type.png)
+![Message if No Character Types are Chosen](assets/password-character-type.png)
 
 ## License 
 
