@@ -27,6 +27,22 @@ The challenge this week was to allow users to generate random passwords, based o
 6. User will be prompted whether or not they would like symbols in the password.
 7. Password will be generated based off the options selected in the dashed textbox.
 
+### Password Generator Page
+![Password Generator Page](assets\password-generator-page.png)
+
+### Character Length for Password
+![Character Length for Password](assets\password-generator-characters.png)
+
+### Confirm Message for Lowercase Characters
+![Confirm Message for Lowercase Characters](assets\password-lowercase-characters.png)
+
+### Message if Less Than 8 or More Than 128 Characters
+![Message if Less Than 8 or More Than 128 Characters](assets\password-character-limit.png)
+
+
+### Message if No Character Types are Chosen
+![Message if No Character Types are Chosen](assets\password-character-type.png)
+
 ## License 
 
 MIT License
