@@ -4,7 +4,7 @@
 
 ## Description
 
-The challenge this week was to allow users to generate random passwords, based off of prompts. These included whether or not users wanted lowercase, uppercase, symbols, and/or numbers. This is the first JavaScript project I have done, and the hardest part was figuring how to structure everything. I learned a lot about the preperation that goes into creating an outline before typing any code at all.
+The challenge this week was to allow users to generate random passwords, based off of prompts. These included whether or not users wanted lowercase, uppercase, symbols, and/or numbers. This is the first JavaScript project I have done, and the hardest part was figuring how to structure everything. I learned a lot about the preperation that goes into creating an outline / importance of pseudocoding before typing any code at all.
 
 ## Installation
 
